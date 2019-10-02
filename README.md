@@ -6,4 +6,5 @@ I searched for something like this, but couldn't find anything. So, I created my
 
 ## Contributions
 
-Feel free to add anything, resourceful or not, maybe a rant or your disgust or whatever you like. Create a PR and I'm most likely to merge. Ironical?
+Feel free to add anything, resourceful or not, maybe a rant or your disgust or whatever you like. Create a PR and I'm most likely to merge. Ironical?  
+[Short and easy guidelines](https://github.com/swingcake/Hacktoberfest-spam/issues/2#issuecomment-537350324 "Contribution guidelines")
