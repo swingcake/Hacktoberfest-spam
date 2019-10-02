@@ -15,4 +15,5 @@ author:"hacktoberfest-team" type:"issues"
 (A good PR would be a search query which returns all repositories with the label "hacktoberfest" whilst checking the issues from "hacktoberfest-team")
 ## Contributions
 
-Feel free to add anything, resourceful or not, maybe a rant or your disgust or whatever you like. Create a PR and I'm most likely to merge. Ironical?
+Feel free to add anything, resourceful or not, maybe a rant or your disgust or whatever you like. Create a PR and I'm most likely to merge. Ironical?  
+[Short and easy guidelines](https://github.com/swingcake/Hacktoberfest-spam/issues/2#issuecomment-537350324 "Contribution guidelines")
