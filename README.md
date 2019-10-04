@@ -17,3 +17,7 @@ author:"hacktoberfest-team" type:"issues"
 
 Feel free to add anything, resourceful or not, maybe a rant or your disgust or whatever you like. Create a PR and I'm most likely to merge. Ironical?  
 [Short and easy guidelines](https://github.com/swingcake/Hacktoberfest-spam/issues/2#issuecomment-537350324 "Contribution guidelines")
+
+## Major Changes
+
+Until last year , any pull request valid or invalid counts towards completing the hacktoberfest challenge. But from this year , a record is being kept to check whether the pull request is valid or not. Until validated by the maintainer the pull request won't count towards challenge completion.
