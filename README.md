@@ -21,3 +21,5 @@ Feel free to add anything, resourceful or not, maybe a rant or your disgust or w
 ## Major Changes
 
 Until last year , any pull request valid or invalid counts towards completing the hacktoberfest challenge. But from this year , a record is being kept to check whether the pull request is valid or not. Until validated by the maintainer the pull request won't count towards challenge completion.
+Complete and detailed information can be found on official website. Check out 
+[Let's work together to reduce spam](https://hacktoberfest.digitalocean.com/details#spam) 
