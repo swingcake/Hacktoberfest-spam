@@ -19,7 +19,13 @@ author:"hacktoberfest-team" type:"issues"
 Till last year, any pull request valid or invalid counted towards the completion of hacktoberfest challenge. But from this year *(2019)* onwards, a record is being kept to check whether the pull request is valid or not. Until validated by the maintainer, the pull request would not count towards the challenge completion.  
 Detailed information can be found on the [official website](https://hacktoberfest.digitalocean.com/details#spam).  
 
-Let's work together to reduce spam.  
+Let's work together to reduce spam.
+
+## 2020 update
+
+There has been *A LOT* of changes this year, particularly to reduce spam. Also, you can now choose to plant a tree (yay) instead of getting a t-shirt!
+
+[Read more here](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
 
 ## Contributions
 
