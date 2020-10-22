@@ -9,9 +9,11 @@ I searched for something like this, but couldn't find anything. So, I created my
 If you don't want to waste your time to make PR to a banned repository you should check out the issues of the chosen repository.
 
 If you feel a little bit adventurous use the given basic GitHub search code below:
-```
+
+```text
 author:"hacktoberfest-team" type:"issues" 
 ```
+
 (A good PR would be a search query which returns all repositories with the label "hacktoberfest" whilst checking the issues from "hacktoberfest-team")
 
 ## Major changes
@@ -21,7 +23,7 @@ Detailed information can be found on the [official website](https://hacktoberfes
 
 Let's work together to reduce spam.
 
-## 2020 update
+### > 2020 update <
 
 There has been *A LOT* of changes this year, particularly to reduce spam. Also, you can now choose to plant a tree (yay) instead of getting a t-shirt!
 
