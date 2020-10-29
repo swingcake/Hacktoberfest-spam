@@ -18,7 +18,7 @@ author:"hacktoberfest-team" type:"issues"
 
 ## Nice tip
 
-If you are struggling finding a good issue to contribute on, you can take a look at [Issuehub](http://issuehub.io). This page allows you to search for projects that have one or many specific labels you feel more comfortable with.
+If you are struggling to find a good project to contribute on, you can take a look at [Issuehub](http://issuehub.io). This page allows you to search for projects that have one or many specific labels you may feel more comfortable with.
 
 ## Major changes
 
