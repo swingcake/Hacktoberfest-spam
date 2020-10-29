@@ -16,6 +16,10 @@ author:"hacktoberfest-team" type:"issues"
 
 (A good PR would be a search query which returns all repositories with the label "hacktoberfest" whilst checking the issues from "hacktoberfest-team")
 
+## Nice tip
+
+If you are struggling to find a good project to contribute on, you can take a look at [Issuehub](http://issuehub.io). This page allows you to search for projects that have one or many specific labels you may feel more comfortable with.
+
 ## Major changes
 
 Till last year, any pull request valid or invalid counted towards the completion of hacktoberfest challenge. But from this year *(2019)* onwards, a record is being kept to check whether the pull request is valid or not. Until validated by the maintainer, the pull request would not count towards the challenge completion.  
